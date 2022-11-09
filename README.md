@@ -5,8 +5,6 @@
 
 숨김모드버전: https://github.com/repairer5812/TennisSearchingBot/raw/main/TenisCourtCheckerSearchingEngine_headless_Ver_0.6.exe
 
-현재 버전은 0.1 입니다.
-
 Chrome 웹 브라우저를 먼저 설치해주세요.
 
 고양시에 있는 6개의 네이버 코트(성라, 대화, 토당, 충장, 화정, 중산)를 검색해줍니다.
