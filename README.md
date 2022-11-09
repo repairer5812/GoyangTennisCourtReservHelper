@@ -1,9 +1,9 @@
 # TennisSearchingBot
 테니스 코트를 검색해주는 봇입니다.
 
-일반버전: https://github.com/repairer5812/TennisSearchingBot/raw/main/TenisCourtCheckerSearchingEngine_Normal.exe
+일반버전: https://github.com/repairer5812/TennisSearchingBot/blob/main/TenisCourtCheckerSearchingEngine_Normal_Ver_0.6.exe
 
-숨김모드버전: https://github.com/repairer5812/TennisSearchingBot/raw/main/TenisCourtCheckerSearchingEngine_headless.exe
+숨김모드버전: https://github.com/repairer5812/TennisSearchingBot/raw/main/TenisCourtCheckerSearchingEngine_headless_Ver_0.6.exe
 
 현재 버전은 0.1 입니다.
 
