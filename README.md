@@ -1,12 +1,15 @@
 # TennisSearchingBot
 테니스 코트를 검색해주는 봇입니다.
 
-일반버전: https://github.com/repairer5812/TennisSearchingBot/blob/main/TenisCourtCheckerSearchingEngine_Normal_Ver_0.6.exe
-
-숨김모드버전: https://github.com/repairer5812/TennisSearchingBot/raw/main/TenisCourtCheckerSearchingEngine_headless_Ver_0.6.exe
-
 Chrome 웹 브라우저를 먼저 설치해주세요.
 
+Ver 0.7
+
+네이버 예약에 있는 5개의 코트를 각각 검색할 수 있는 실행파일을 만들었습니다. 각각 독립적으로 실행이 가능합니다.
+
+Normal 버전만 제공합니다.
+
+Ver0.6 
 고양시에 있는 6개의 네이버 코트(성라, 대화, 토당, 충장, 화정, 중산)를 검색해줍니다.
 
 현재 평일 18시, 20시와 주말에 모든 시간을 검색하도록 해놨습니다.
